@@ -34,7 +34,7 @@ The test is executed weekly and results are logged in `performance_log.txt`.
 
 ---
 
-### 1️⃣ 克隆 GitHub 项目到 VPS
+###  克隆 GitHub 项目到 VPS
 
 在 VPS 上通过 **FinalShell** 连接后，你可以执行以下命令来 **克隆** 项目：
 
